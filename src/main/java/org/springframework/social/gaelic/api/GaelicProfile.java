@@ -4,10 +4,13 @@
 
 package org.springframework.social.gaelic.api;
 
+import org.codehaus.jackson.annotate.JsonIgnoreProperties;
+
 /**
  *
  * @author sosandstrom
  */
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class GaelicProfile {
     
     private String id;
