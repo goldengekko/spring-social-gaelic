@@ -105,8 +105,8 @@
     </repositories>
 
     <scm>
-        <url>https://github.com/goldengekko/spring-social-salesforce</url>
-        <developerConnection>scm:git:ssh://git@github.com/goldengekko/spring-social-salesforce.git</developerConnection>
+        <url>https://github.com/goldengekko/spring-social-gaelic</url>
+        <developerConnection>scm:git:ssh://git@github.com/goldengekko/spring-social-gaelic.git</developerConnection>
     </scm>
     
     <distributionManagement>
